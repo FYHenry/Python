@@ -32,3 +32,5 @@ def execution():# Exécuter une fois.
     fen = Fenestre()
     fen.show()
     app.exec_()
+
+execution()

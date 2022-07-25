@@ -5,6 +5,9 @@ Created on Thu Jul  6 14:02:21 2017
 
 @author: fh
 """
+##########
+# BROKEN #
+##########
 import numpy as np
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QGridLayout, QLabel, QLineEdit, QCheckBox, QGroupBox
@@ -74,7 +77,6 @@ class Bidule(QWidget):
                     else:
                         self.bouttons[l][c].setText(n[l][c])
 '''
-                    
 
 def ouvrirBidule():
     app = QApplication.instance()
@@ -83,4 +85,5 @@ def ouvrirBidule():
     objet = Bidule()
     objet.show()
     app.exec_()
+
 ouvrirBidule()
