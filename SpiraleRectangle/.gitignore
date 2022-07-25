@@ -1,0 +1,3 @@
+# Images ignorées
+data/*
+output/*
