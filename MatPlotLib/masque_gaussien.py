@@ -14,3 +14,4 @@ for x in range(1,1000):
 plt.figure()
 plt.imshow(image,cmap='gray')
 plt.title("Sinusoïde de NdG")
+plt.pause(1.00)

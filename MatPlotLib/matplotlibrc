@@ -1,0 +1,4 @@
+## MatPlotLib RC
+backend: gtk3cairo
+backend_fallback: True
+savefig.format: pdf
