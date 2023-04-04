@@ -1,6 +1,6 @@
 # Python
 
-Petits projets en Python regroupés dans des répertoires partageant un environnement virtuel similaire.
+Petits projets de développement en Python regroupés dans des répertoires partageant un environnement virtuel similaire.
 
 Pour installer chaque répertoire `DIR`:
 ```bash
