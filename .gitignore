@@ -1,4 +1,4 @@
-# Excude Python venv
+# Exclude Python venv
 */bin/*
 */include/*
 */lib/*
